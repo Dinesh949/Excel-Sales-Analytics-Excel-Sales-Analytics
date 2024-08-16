@@ -1,6 +1,7 @@
 # Sales Report & Finance Report for AtliQ Hardware
 
 Sales Description Video: [Link](https://youtu.be/6HtxOndNW-o)
+![test Image1](https://github.com/Dinesh949/Excel-Sales-Analytics-Excel-Sales-Analytics/blob/main/2023_03_profit-and-loss-statement.jpg)
 
 **Sales Report:**
 
